@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Siddhesh Shinde 👋</h1>
+<h1 align="center">Hi, I'm Siddhesh Shinde </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,12 +8,12 @@
 
 <p align="center">
   <!-- TODO: swap in your live portfolio URL once deployed -->
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://siddheshshinde-ten.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=39D353" alt="Portfolio"/>
   </a>
   <!-- TODO: swap in your resume link (Google Drive / PDF) -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=readdotcv&logoColor=39D353" alt="Resume"/>
+    <img src="https://siddheshshinde-ten.vercel.app" alt="Resume"/>
   </a>
 </p>
 
@@ -52,8 +52,6 @@
 
 Started with C in my first year of diploma — it's still the language that shaped how I think through problems. Since then, I've built an AI pipeline that automates helmet-violation flagging with a human-in-the-loop, and SAAPT — a full attendance system for BVIT Institute with 4 roles and offline sync, shipped in a week.
 
-At 17, I founded an agency, pitched to 15 shopkeepers door-to-door, got rejected by all of them, and shut it down when college called. Every failure taught me more than any success could.
-
 I'm a vibe coder when prototyping, a traditional programmer when shipping — and I care more about a product having real users than a repo having a green commit graph. Currently open to internships and freelance work where I can keep building things people actually use.
 
 <!-- TODO: drop your resume link in the badge above once you have one -->
@@ -82,10 +80,3 @@ I'm a vibe coder when prototyping, a traditional programmer when shipping — an
 <samp>Tools</samp> | ![Git](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-vercel-000?style=for-the-badge&logo=vercel) ![Expo](https://img.shields.io/badge/-expo-000?style=for-the-badge&logo=expo&logoColor=white) ![Power BI](https://img.shields.io/badge/-power%20bi-000?style=for-the-badge&logo=powerbi) |
 
 ---
-
-<div align="center">
-  <h3><code>sujal@github ~ $ ./play.sh</code></h3>
-  <img src="./game.gif" alt="GitHub Space Shooter — my contribution graph as a game" width="700"/>
-  <br/>
-  <sub>auto-refreshes daily — your commits become the enemies</sub>
-</div>
