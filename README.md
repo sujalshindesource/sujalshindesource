@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=39D353" alt="Portfolio"/>
   </a>
   <!-- TODO: swap in your resume link (Google Drive / PDF) -->
-  <a href="#" target="_blank">
-    <img src="https://siddheshshinde-ten.vercel.app" alt="Resume"/>
+  <a href="https://siddheshshinde-ten.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=readdotcv&logoColor=39D353" alt="Resume"/>
   </a>
 </p>
 
