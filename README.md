@@ -58,14 +58,14 @@ I'm a vibe coder when prototyping, a traditional programmer when shipping — an
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <h3><code>sujal@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 <br/>
 <sub>auto-refreshes daily via GitHub Actions — nothing to update by hand</sub>
 
-</div>
+</div> -->
 
 ---
 <h3 align="center">Tech Stack</h3>
